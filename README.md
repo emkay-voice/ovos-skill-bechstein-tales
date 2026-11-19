@@ -8,7 +8,10 @@ hugely popular collection - a genuinely different source, not just "more
 Grimm" (though a few titles overlap, since both drew from the same
 regional oral tradition).
 
-[![Tests](https://github.com/andlo/ovos-skill-bechstein-tales/actions/workflows/test.yml/badge.svg)](https://github.com/andlo/ovos-skill-bechstein-tales/actions/workflows/test.yml)
+It is part of [Emkay](https://github.com/emkay-voice/emkay), OpenVoiceOS in
+the browser, and works on any [OpenVoiceOS](https://openvoiceos.org).
+
+[![Build](https://github.com/emkay-voice/ovos-skill-bechstein-tales/actions/workflows/publish.yml/badge.svg)](https://github.com/emkay-voice/ovos-skill-bechstein-tales/actions/workflows/publish.yml)
 [![PyPI version](https://img.shields.io/pypi/v/ovos-skill-bechstein-tales.svg)](https://pypi.org/project/ovos-skill-bechstein-tales/)
 
 > **This skill has no standalone voice interface.** It registers no
@@ -68,7 +71,7 @@ again. When a fetch fails, it is not tried again for five minutes, and
 an older copy is read meanwhile if there is one. When the cache
 directory cannot be written, the stories are kept in memory instead.
 Requests say who is asking:
-`ovos-skill-bechstein-tales/<version> (+https://github.com/andlo/ovos-skill-bechstein-tales)`.
+`ovos-skill-bechstein-tales/<version> (+https://github.com/emkay-voice/ovos-skill-bechstein-tales)`.
 
 What is read is the tale, with its verse line by line (the bird's rhyme
 in *Aschenbrödel* is a `<div class="verse">` and used to be skipped),

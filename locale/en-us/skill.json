@@ -1,10 +1,10 @@
 {
-  "skill_id": "ovos-skill-bechstein-tales.andlo",
-  "source": "https://github.com/andlo/ovos-skill-bechstein-tales",
+  "skill_id": "ovos-skill-bechstein-tales.emkay-voice",
+  "source": "https://github.com/emkay-voice/ovos-skill-bechstein-tales",
   "package_name": "ovos-skill-bechstein-tales",
   "pip_spec": "ovos-skill-bechstein-tales",
   "license": "GPL-3.0-or-later",
-  "author": "andlo",
+  "author": "emkay-voice",
   "name": "Bechstein Tales (provider)",
   "description": "Ludwig Bechstein's German fairy tales provider for ovos-common-reading-pipeline-plugin. German only, no translation.",
   "examples": [],
@@ -16,5 +16,5 @@
     "german",
     "provider"
   ],
-  "icon": "https://raw.githubusercontent.com/andlo/ovos-skill-bechstein-tales/main/story-512.png"
+  "icon": "https://raw.githubusercontent.com/emkay-voice/ovos-skill-bechstein-tales/main/story-512.png"
 }

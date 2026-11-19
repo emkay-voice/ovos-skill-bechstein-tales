@@ -218,7 +218,7 @@ def title_aliases(title):
 # (up to 793 KB) or its parse tree (~6 MB in memory).
 
 PYPI_NAME = "ovos-skill-bechstein-tales"
-REPO_URL = "https://github.com/andlo/ovos-skill-bechstein-tales"
+REPO_URL = "https://github.com/emkay-voice/ovos-skill-bechstein-tales"
 try:
     SKILL_VERSION = importlib.metadata.version(PYPI_NAME)
 except importlib.metadata.PackageNotFoundError:  # run from a checkout
