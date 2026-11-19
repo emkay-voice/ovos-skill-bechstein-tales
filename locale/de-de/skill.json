@@ -3,7 +3,7 @@
   "source": "https://github.com/emkay-voice/ovos-skill-bechstein-tales",
   "package_name": "ovos-skill-bechstein-tales",
   "pip_spec": "ovos-skill-bechstein-tales",
-  "license": "GPL-3.0-or-later",
+  "license": "Apache-2.0",
   "author": "emkay-voice",
   "name": "Bechstein-Märchen (Anbieter)",
   "description": "Anbieter für Ludwig Bechsteins deutsche Märchen für ovos-common-reading-pipeline-plugin. Nur auf Deutsch, keine Übersetzung.",

@@ -3,7 +3,7 @@
   "source": "https://github.com/emkay-voice/ovos-skill-bechstein-tales",
   "package_name": "ovos-skill-bechstein-tales",
   "pip_spec": "ovos-skill-bechstein-tales",
-  "license": "GPL-3.0-or-later",
+  "license": "Apache-2.0",
   "author": "emkay-voice",
   "name": "Bechstein Tales (provider)",
   "description": "Ludwig Bechstein's German fairy tales provider for ovos-common-reading-pipeline-plugin. German only, no translation.",
