@@ -132,7 +132,7 @@ provider.
 
 Content sourced from [Project Gutenberg](https://www.gutenberg.org/).
 Scraping/extraction/caching logic ported from
-[ovos-skill-andrew-lang-tales](https://github.com/andlo/ovos-skill-andrew-lang-tales).
+[ovos-skill-andrew-lang-tales](https://github.com/emkay-voice/ovos-skill-andrew-lang-tales).
 
 ## Category
 **Entertainment**
