@@ -9,6 +9,7 @@ description = "Ludwig Bechstein's German fairy tales provider for ovos-common-re
 readme = "README.md"
 license = {text = "Apache-2.0"}
 authors = [{name = "emkay-voice"}]
+maintainers = [{name = "Andreas Lorensen"}]
 requires-python = ">=3.10"
 keywords = ["ovos", "openvoiceos", "skill", "voice", "assistant", "fairytales", "bechstein", "german", "storytelling", "emkay"]
 classifiers = [
